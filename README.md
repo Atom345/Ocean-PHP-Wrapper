@@ -30,4 +30,4 @@ var_dump($output); //Print output
 Ocean API is a next gen API platform for smart yet basic applications. Our API is hand crafted for Discord bots, websites, and data storage.
 
 # License 📜
-OCean PHP Wrapper is distributed under the GNU General Public License v3.0 License. See `LICENSE` for more information.
+Ocean PHP Wrapper is distributed under the GNU General Public License v3.0 License. See `LICENSE` for more information.
